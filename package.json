@@ -1,7 +1,7 @@
 {
   "name": "validate-encoding",
   "version": "0.0.0",
-  "description": "Validates whether a string matches the name of the encoding",
+  "description": "Validates whether a string matches the name of the encoding or not",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"

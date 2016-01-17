@@ -4,7 +4,7 @@
 [![downloads](https://img.shields.io/npm/dm/validate-encoding.svg)](https://npmjs.org/package/validate-encoding)
 
 
->Validates whether a string matches the name of the encoding. Full list a valid encoding names [here](http://www.iana.org/assignments/character-sets/character-sets.xhtml)
+>Validates whether a string matches the name of the encoding or not. Full list of the valid encoding names [here](http://www.iana.org/assignments/character-sets/character-sets.xhtml)
 
 ### usage
 
