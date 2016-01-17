@@ -1,5 +1,10 @@
 ## validate-encoding
-Validates whether a string matches the name of the encoding. Full list a valid encoding names [here](http://www.iana.org/assignments/character-sets/character-sets.xhtml)
+[![npm](https://img.shields.io/npm/v/validate-encoding.svg)](https://npmjs.org/package/validate-encoding)
+[![license](https://img.shields.io/npm/l/validate-encoding.svg)](https://npmjs.org/package/validate-encoding)
+[![downloads](https://img.shields.io/npm/dm/validate-encoding.svg)](https://npmjs.org/package/validate-encoding)
+
+
+>Validates whether a string matches the name of the encoding. Full list a valid encoding names [here](http://www.iana.org/assignments/character-sets/character-sets.xhtml)
 
 ### usage
 
