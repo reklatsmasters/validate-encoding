@@ -1,6 +1,6 @@
 {
   "name": "validate-encoding",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Validates whether a string matches the name of the encoding or not",
   "main": "index.js",
   "scripts": {
