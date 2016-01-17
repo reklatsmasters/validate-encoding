@@ -1,0 +1,27 @@
+{
+  "name": "validate-encoding",
+  "version": "0.0.0",
+  "description": "Validates whether a string matches the name of the encoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reklatsmasters/validate-encoding.git"
+  },
+  "keywords": [
+    "encoding",
+    "validate",
+    "check"
+  ],
+  "author": "Dmitry Tsvettsikh <me@reklatsmasters.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reklatsmasters/validate-encoding/issues"
+  },
+  "homepage": "https://github.com/reklatsmasters/validate-encoding#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
